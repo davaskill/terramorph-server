@@ -1,0 +1,8 @@
+node_modules/
+node_modules/*
+client/dist/*
+client/dist/
+npm-debug.log
+.DS_Store
+.idea/
+xkukenfisken.iml

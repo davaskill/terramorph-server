@@ -1,0 +1,36 @@
+{
+  "name": "terramorph-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davaskill/terramorph-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davaskill/terramorph-server/issues"
+  },
+  "dependencies": {
+    "async": "latest",
+    "bcrypt-nodejs": "latest",
+    "body-parser": "~1.0.0",
+    "connect-flash": "~0.1.1",
+    "cookie-parser": "~1.0.0",
+    "ejs": "~0.8.5",
+    "express": "~4.14.0",
+    "express-session": "~1.0.0",
+    "mongoose": "~4.4.10",
+    "passport": "~0.1.17",
+    "passport-google-oauth": "^1.0.0",
+    "passport-http": "^0.3.0",
+    "passport-local": "^1.0.0",
+    "session-memory-store": "latest",
+    "ws": "^1.0.1"
+  },
+  "homepage": "https://github.com/davaskill/terramorph-server#readme"
+}
